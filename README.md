@@ -1,2 +1,2 @@
-# projeto1
-Projeto de exemplo em aula
+# Projeto da Aula de Programação Web II
+Projeto para aprender utilizar o Git e o GitHub.
